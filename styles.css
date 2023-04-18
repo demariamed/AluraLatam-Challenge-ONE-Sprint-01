@@ -20,7 +20,7 @@ h3{
 	text-align: center;
 }
 .menu {
-	background-color: #141414;
+	background-color: #c7ba07;
 	padding: 20px;
 	border-radius: 10px;
 	width: 800px;
@@ -61,14 +61,14 @@ textarea {
     border-radius: 10px;
 }
 .encriptar {
-	background-color: #5a4f11;
+	background-color: #f32424;
 	color: #fff;
 	border: none;
 	padding: 10px !important;
 	cursor: pointer;
 }
 .desencriptar {
-	background-color: #db9a0d;
+	background-color: #0eb482;
 	color: #fff;
 	border: none;
 	padding: 10px;
