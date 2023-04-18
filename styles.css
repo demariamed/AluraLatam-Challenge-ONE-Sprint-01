@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;1,300&display=swap');
 body {
-    background: linear-gradient(to right, #f0b616, #795b08); 
+    background: linear-gradient(to right, #9b9a98, #dfdfdc); 
 }
 
 *{
@@ -10,17 +10,18 @@ body {
 h1{
 	text-align: center;
 	font-size: 65px;
-	color: #f3ebbd;
+	color: #fffffc;
 }
 h2{
 	text-align: center;
-	color: rgb(238, 231, 158);
+	color: rgb(250, 250, 247);
 }
 h3{
 	text-align: center;
+	color: rgb(250, 250, 247);
 }
 .menu {
-	background-color: #c7ba07;
+	background-color: #0a0a0a;
 	padding: 20px;
 	border-radius: 10px;
 	width: 800px;
